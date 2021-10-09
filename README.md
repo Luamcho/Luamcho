@@ -17,5 +17,3 @@
 [![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=Luamcho.github.io&theme=monokai)](https://github.com/Luamcho/google-telegram-bot)
 
 </details>
-
-
