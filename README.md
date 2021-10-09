@@ -12,6 +12,6 @@
 
 [![Google_v1bot](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=google-telegram-bot&theme=monokai)](https://github.com/Luamcho/google-telegram-bot)
 
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=Luamcho.github.io&theme=monokai)](https://github.com/Luamcho/Luamcho.github.io)
+[![Web-site](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=Luamcho.github.io&theme=monokai)](https://github.com/Luamcho/Luamcho.github.io)
 
 </details>
