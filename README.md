@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luamcho&layout=compact" />
 </div>
 
-<!--
+
 
 <details>
 <summary><b>more detail</b></summary>
@@ -52,4 +52,4 @@
 
 </details>
 
--->
+
