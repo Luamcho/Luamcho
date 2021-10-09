@@ -1,5 +1,4 @@
-<a href="https://github.com/Luamcho/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/Luamcho/github-profile-trophy">
+<a href="https://github.com/Luamcho/github-profile-trophy"><h1>🏆 Github Profile Trophy</h1>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Luamcho&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
