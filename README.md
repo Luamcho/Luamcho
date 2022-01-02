@@ -13,8 +13,4 @@
   
 <h2>Repositorios Populares</h2>
 
-[![Google_v1bot](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=Google_v1bot&theme=discord)](https://github.com/Luamcho/Google_v1bot)
-
-[![Web-site](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=Luamcho.github.io&theme=discord)](https://github.com/Luamcho/Luamcho.github.io)
-
-</details>
+[![Google_v1bot](https://github-readme-stats.vercel.app/api/pin/?username=Luamcho&repo=Google_v1bot&theme=discord)](https://github.com/Luamcho/Google_v1bot
