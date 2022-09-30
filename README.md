@@ -1,3 +1,19 @@
+### Holaaaa 👋
+
+Soy Diseñador y Desarrollador Web especializado en tecnologías Front-End y amante de la pizza 🍕 
+
+
+🛠️ Actualmente estoy trabajando en:
+- Latam Eports League (LEL) Website
+- Mini network Website
+
+📚 Conocimientos:
+- HTML
+- CSS
+- TypeScript
+- Angular
+- Git
+
 <h1>🏆 Github Profile Trophy 🏆</h1>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Luamcho&column=5&margin-w=15&margin-h=15&theme=discord&&no-frame=true"
 
