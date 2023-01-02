@@ -4,7 +4,7 @@ Soy Diseñador y Desarrollador Web especializado en tecnologías Front-End y ama
 
 
 🛠️ Actualmente estoy trabajando en:
-- Latam Eports League (LEL) Website
+- Latam Esports League (LEL) Website
 - Mini network Website
 
 📚 Conocimientos:
