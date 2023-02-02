@@ -1,6 +1,6 @@
 ### Holaaaa 👋
 
-Soy Diseñador y Desarrollador Web especializado en tecnologías Front-End y amante de la pizza 🍕 
+Soy Diseñador y Desarrollador Web especializado en tecnologías Front-End | Amante de la pizza 🍕 
 
 
 🛠️ Actualmente estoy trabajando en:
