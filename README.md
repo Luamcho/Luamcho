@@ -20,7 +20,3 @@ Soy Diseñador y Desarrollador Web especializado en tecnologías Front-End | Ama
 
   ---
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luamcho&layout=compact&show_icons=true)
-  
-
----
